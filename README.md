@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S545232
+- 👋 Hi, I’m @Anil Kumar Kolla
 - 👀 I’m interested to learn Data Structures and Algorims.
 - 🌱 I’m currently improving skills.
 - 📫 Reach me on +1 6608690173
