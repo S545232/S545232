@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anil Kumar Kolla
-- 👀 I’m interested to learn Data Structures and Algorims.
+- 👀 Data Structures and Algorims.
 - 📫 Reach me on +1 6608690173
 
 <!---
